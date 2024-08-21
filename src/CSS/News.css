@@ -1,0 +1,10 @@
+.col-md-4{
+    background-color:rgb(242, 242, 242);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.space-between{
+    margin-bottom: 2.5rem;
+}

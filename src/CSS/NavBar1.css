@@ -1,0 +1,13 @@
+.bg-dark{
+    height: 5rem;
+    width: max-width;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    font-family: 'Merriweather';
+    font-size: 2.5rem;
+    font-weight: 1000;
+    color: aliceblue;
+}

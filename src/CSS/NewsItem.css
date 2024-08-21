@@ -1,0 +1,29 @@
+img {
+    height: 30rem;
+    width: 40rem;
+    border-radius: 8px;
+}
+
+.card-body{
+    width: 48rem;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.card-title{
+    width: 48rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h5{
+    width: 48rem;
+    margin: auto;
+    display: -webkit-box;
+    -webkit-line-clamp: 4;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-align: center;
+}
